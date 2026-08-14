@@ -167,5 +167,6 @@
     <Prepayment>Нужна</Prepayment>
     <Guarantee>Да</Guarantee>
     <ListingFee>BBL</ListingFee>
+    <AdStatus>Free</AdStatus>
   </Ad>
 </Ads>
