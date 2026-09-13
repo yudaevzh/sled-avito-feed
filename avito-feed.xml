@@ -61,7 +61,7 @@
       </Service>
     </PriceList>
     <Promo>Manual</Promo>
-    <PromoManualOptions>30|150</PromoManualOptions>
+    <PromoManualOptions>|30|150</PromoManualOptions>
   </Ad>
   <Ad>
     <Id>sled-02a-r2</Id>
@@ -115,7 +115,7 @@
       </Service>
     </PriceList>
     <Promo>Manual</Promo>
-    <PromoManualOptions>30|150</PromoManualOptions>
+    <PromoManualOptions>|30|150</PromoManualOptions>
   </Ad>
   <Ad>
     <Id>sled-03a-r2</Id>
@@ -176,7 +176,7 @@
       </Service>
     </PriceList>
     <Promo>Manual</Promo>
-    <PromoManualOptions>30|150</PromoManualOptions>
+    <PromoManualOptions>|30|150</PromoManualOptions>
   </Ad>
   <Ad>
     <Id>sled-04b-r2</Id>
