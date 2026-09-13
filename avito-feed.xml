@@ -23,6 +23,45 @@
     <Prepayment>Нужна</Prepayment>
     <Guarantee>Да</Guarantee>
     <ListingFee>BBL</ListingFee>
+    <PriceList>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Печать на холсте А3, 30×40 см, с подрамником</ServiceTitle>
+        <ServicePrice>1000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за единицу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Печать на холсте А2, 40×60 см, с подрамником</ServiceTitle>
+        <ServicePrice>2000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за единицу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Печать на холсте А1, 60×80 см, с подрамником</ServiceTitle>
+        <ServicePrice>4000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за единицу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Печать на холсте А0, 80×120 см, с подрамником</ServiceTitle>
+        <ServicePrice>8000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за единицу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Холст нестандартного размера под стену</ServiceTitle>
+        <ServicePrice>1535</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за м²</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>30|150</PromoManualOptions>
   </Ad>
   <Ad>
     <Id>sled-02a-r2</Id>
@@ -47,6 +86,36 @@
     <Prepayment>Нужна</Prepayment>
     <Guarantee>Да</Guarantee>
     <ListingFee>BBL</ListingFee>
+    <PriceList>
+      <Service>
+        <ServiceName>Печать на футболках</ServiceName>
+        <ServicePrice>1000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за единицу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>DTF-печать на вашей футболке, А4</ServiceTitle>
+        <ServicePrice>2000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за единицу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Футболка хлопок 180 г с DTF-печатью</ServiceTitle>
+        <ServicePrice>2600</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за единицу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Подготовка макета к печати</ServiceName>
+        <ServicePrice>1500</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>30|150</PromoManualOptions>
   </Ad>
   <Ad>
     <Id>sled-03a-r2</Id>
@@ -71,6 +140,43 @@
     <Prepayment>Нужна</Prepayment>
     <Guarantee>Да</Guarantee>
     <ListingFee>BBL</ListingFee>
+    <PriceList>
+      <Service>
+        <ServiceName>Печать наклеек</ServiceName>
+        <ServicePrice>266</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за заказ</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Наклейки, лист А4 с контурной резкой</ServiceTitle>
+        <ServicePrice>378</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за заказ</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Печать этикеток</ServiceName>
+        <ServicePrice>145</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за заказ</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Печать на плёнке, широкий формат</ServiceTitle>
+        <ServicePrice>864</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за м²</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Плёнка с контурной резкой по макету</ServiceTitle>
+        <ServicePrice>1800</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за м²</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>30|150</PromoManualOptions>
   </Ad>
   <Ad>
     <Id>sled-04b-r2</Id>
@@ -95,6 +201,41 @@
     <Prepayment>Нужна</Prepayment>
     <Guarantee>Да</Guarantee>
     <ListingFee>BBL</ListingFee>
+    <PriceList>
+      <Service>
+        <ServiceName>Печать корпоративных визиток</ServiceName>
+        <ServicePrice>650</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за заказ</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Визитки 100 шт, двусторонние</ServiceTitle>
+        <ServicePrice>900</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за заказ</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Визитки 1000 шт, двусторонние</ServiceTitle>
+        <ServicePrice>2500</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за заказ</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Печать именных визиток</ServiceName>
+        <ServicePrice>650</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за заказ</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Ламинация визиток, 100 шт</ServiceTitle>
+        <ServicePrice>1550</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за заказ</ServicePriceType>
+      </Service>
+    </PriceList>
   </Ad>
   <Ad>
     <Id>sled-05a</Id>
@@ -119,6 +260,42 @@
     <Prepayment>Нужна</Prepayment>
     <Guarantee>Да</Guarantee>
     <ListingFee>BBL</ListingFee>
+    <PriceList>
+      <Service>
+        <ServiceName>Изготовление баннеров</ServiceName>
+        <ServicePrice>792</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за м²</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Баннер с люверсами по периметру</ServiceTitle>
+        <ServicePrice>1002</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за м²</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Roll-up стенд 80×200 в сборе с механизмом</ServiceTitle>
+        <ServicePrice>4839</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за заказ</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Печать на плёнке для витрин и фасадов</ServiceTitle>
+        <ServicePrice>864</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за м²</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Подготовка макета к печати</ServiceTitle>
+        <ServicePrice>1500</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
   </Ad>
   <Ad>
     <Id>sled-06b-r2</Id>
@@ -143,6 +320,27 @@
     <Prepayment>Нужна</Prepayment>
     <Guarantee>Да</Guarantee>
     <ListingFee>BBL</ListingFee>
+    <PriceList>
+      <Service>
+        <ServiceName>Печать на кружках</ServiceName>
+        <ServicePrice>300</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за единицу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Кружка 420 мл с печатью</ServiceTitle>
+        <ServicePrice>300</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за единицу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Подготовка макета к печати</ServiceName>
+        <ServicePrice>1500</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
   </Ad>
   <Ad>
     <Id>sled-07b-r2</Id>
@@ -167,6 +365,36 @@
     <Prepayment>Нужна</Prepayment>
     <Guarantee>Да</Guarantee>
     <ListingFee>BBL</ListingFee>
+    <PriceList>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Плоттерная резка плёнки без печати</ServiceTitle>
+        <ServicePrice>600</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за м²</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Плоттерная резка плёнки с печатью</ServiceTitle>
+        <ServicePrice>1800</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за м²</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Печать на плёнке без резки</ServiceTitle>
+        <ServicePrice>864</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за м²</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Подготовка макета к печати</ServiceTitle>
+        <ServicePrice>1500</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
     <AdStatus>Free</AdStatus>
   </Ad>
 </Ads>
